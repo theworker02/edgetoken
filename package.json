@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/edgetoken",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Edge identifiers and token tokens for idempotent workflows.",
+  "bin": {
+    "edgetoken": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/edgetoken.git"
+  },
+  "homepage": "https://theworker02.github.io/edgetoken/",
+  "keywords": [
+    "edge",
+    "token",
+    "id",
+    "cli",
+    "toolkit"
+  ]
+}
